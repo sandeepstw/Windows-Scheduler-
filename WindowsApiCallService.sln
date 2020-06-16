@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsApiCallService", "WindowsApiCallService\WindowsApiCallService.csproj", "{4D6CD3C4-FFA3-4D1F-A8B3-C48F838249F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D6CD3C4-FFA3-4D1F-A8B3-C48F838249F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D6CD3C4-FFA3-4D1F-A8B3-C48F838249F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D6CD3C4-FFA3-4D1F-A8B3-C48F838249F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D6CD3C4-FFA3-4D1F-A8B3-C48F838249F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08499F6E-177E-4859-834E-93C0B33D11AF}
+	EndGlobalSection
+EndGlobal
